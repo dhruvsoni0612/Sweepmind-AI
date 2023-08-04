@@ -4,28 +4,28 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 const testimonials = [
   {
-    name: "Joel",
-    avatar: "J",
+    name: "Dhruv",
+    avatar: "D",
     title: "Software Engineer",
-    description: "This is the best application I've ever used!",
+    description: "SweepMind has been a gamechanger for my productivity!",
   },
   {
-    name: "Antonio",
-    avatar: "A",
+    name: "Mitali",
+    avatar: "M",
     title: "Designer",
-    description: "I use this daily for generating new photos!",
+    description: "The Image Generation tool helps me convert my ideas into a design in seconds!",
   },
   {
-    name: "Mark",
-    avatar: "M",
+    name: "Sanjay",
+    avatar: "S",
     title: "CEO",
-    description: "This app has changed my life, cannot imagine working without it!",
+    description: "SweepMind helps me do my emails extremely quickly every morning!",
   },
   {
-    name: "Mary",
-    avatar: "M",
+    name: "Navneet",
+    avatar: "N",
     title: "CFO",
-    description: "The best in class, definitely worth the premium subscription!",
+    description: "I cannot thank myself enough for getting the Pro Subscription!",
   },
 ];
 
